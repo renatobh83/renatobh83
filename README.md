@@ -7,7 +7,7 @@ Minha mais recente experiencia academica foi minha Pós Graduação em Desenvolv
 
 ## 💫 Um Pouco Mais Sobre Mim
 <p>🌱 Estou aprendendo no momento Ui Design, Ux Design</p>
-<p>Meu portifolio pode ser visto em <a href="https://mycvportifolio.vercel.app" target="_blank">renatodev</a></p>
+<p>Meu portifolio pode ser visto em <a href="https://renatodev.vercel.app" target="_blank">renatodev</a></p>
 
 ## Proximo evento
 <p><a href="https://nlw.rocketseat.com.br/invite/renato-10692">Nlw Esports</a></p>
