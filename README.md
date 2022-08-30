@@ -2,6 +2,7 @@
 
 <img src="https://i.ibb.co/3p5LGBz/github-header-image-5.png" alt="github-header-image-5" border="0">
 
+
 Minha mais recente experiencia academica foi minha Pós Graduação em Desenvolvimento Web Full Stack. Além disso me mantenho sempre atualizado com cursos intensivos online.
 
 ## 💫 Liitle Bit More About Me
