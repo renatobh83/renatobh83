@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Renato
 
-<img width="100%" src="https://i.ibb.co/H712Kgp/github-header-image-4.png" alt="my banner">
+<img src="https://i.ibb.co/H712Kgp/github-header-image-4.png" alt="github-header-image-4" border="0">
 
 Minha mais recente experiencia academica foi minha Pós Graduação em Desenvolvimento Web Full Stack. Além disso me mantenho sempre atualizado com cursos intensivos online.
 
