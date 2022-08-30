@@ -5,9 +5,10 @@
 
 Minha mais recente experiencia academica foi minha Pós Graduação em Desenvolvimento Web Full Stack. Além disso me mantenho sempre atualizado com cursos intensivos online.
 
-## 💫 Liitle Bit More About Me
+## 💫 Um Pouco Mais Sobre Mim
 <p>🌱 I'm currently learning Ui Design, Ux Design</p>
-<p>I regularly write articles on <a href="">https://mycvportifolio.vercel.app</a></p>
+<p>I regularly write articles on <a href="https://mycvportifolio.vercel.app">Renato.dev</a></p>
+
 
 ## 💻 Skills
 <p>
@@ -23,8 +24,8 @@ Minha mais recente experiencia academica foi minha Pós Graduação em Desenvolv
 
 ## 👥 Connect With Me
 <p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/renato-l%C3%BAcio-mendon%C3%A7a-82685339/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.instagram.com/https://www.instagram.com/renatobh83/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://linkedin.com/in/renato-l%C3%BAcio-mendon%C3%A7a-82685339/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.instagram.com/renatobh83"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 
