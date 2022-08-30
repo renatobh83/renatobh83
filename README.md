@@ -26,15 +26,6 @@ Minha mais recente experiencia academica foi minha Pós Graduação em Desenvolv
 <a href="https://www.instagram.com/https://www.instagram.com/renatobh83/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
-
 
 ## 📊 Github Status
-
-<p><img src="https://activity-graph.herokuapp.com/graph?username=renatobh83"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=renatobh83&show_icons=true"><p>
-
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobh83&layout=compact"><p>
