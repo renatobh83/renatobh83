@@ -1,11 +1,12 @@
 # Olá 👋, eu sou Renato
 
-<img width="100%" src="https://ibb.co/9nzvpY3" alt="my banner">
+<img width="100%" src="https://i.ibb.co/H712Kgp/github-header-image-4.png" alt="my banner">
 
 Minha mais recente experiencia academica foi minha Pós Graduação em Desenvolvimento Web Full Stack. Além disso me mantenho sempre atualizado com cursos intensivos online.
 
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning Ui Design, Ux Design</p>
+<p>I regularly write articles on <a href="">https://mycvportifolio.vercel.app</a></p>
 
 ## 💻 Skills
 <p>
@@ -17,7 +18,6 @@ Minha mais recente experiencia academica foi minha Pós Graduação em Desenvolv
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ## 👥 Connect With Me
@@ -36,5 +36,9 @@ Minha mais recente experiencia academica foi minha Pós Graduação em Desenvolv
 </p>
 
 ## 📊 Github Status
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=renatobh83"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=renatobh83&show_icons=true"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobh83&layout=compact"><p>
