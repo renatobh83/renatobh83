@@ -30,10 +30,6 @@ Minha mais recente experiencia academica foi minha Pós Graduação em Desenvolv
 <p>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=renatobh83">
-</p>
 
 ## 📊 Github Status
 
