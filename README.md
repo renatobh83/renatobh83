@@ -7,7 +7,7 @@ Minha mais recente experiencia academica foi minha Pós Graduação em Desenvolv
 
 ## 💫 Um Pouco Mais Sobre Mim
 <p>🌱 Estou aprendendo no momento Ui Design, Ux Design</p>
-<p>I regularly write articles on <a href="https://mycvportifolio.vercel.app" target="_blank">Renato.dev</a></p>
+<p>Meu portifolio pode ser visto em <a href="https://mycvportifolio.vercel.app" target="_blank">Renato.dev</a></p>
 
 
 ## 💻 Skills
